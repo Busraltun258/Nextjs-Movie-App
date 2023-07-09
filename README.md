@@ -2,5 +2,5 @@
 
 <img width="1676" alt="image" src="https://github.com/Busraltun258/Nextjs-Movie-App/assets/71510210/a89d59a3-b592-4bda-b794-15cc5d9e6e18">
 
-Nextjs ve MovieDb kullanarak film sitesi yaptım.Arama ,detay sayfası ve navbardaki alanlara göre istenilen başlıklara göre sonuçları gösteriyorum.
+Nextjs ve MovieDb kullanarak film sitesi yaptım.Arama ,detay sayfası ve navbardaki alanlara göre istenilen başlıklara göre sonuçları gösteriyorum. Aynı zamnda dark mod ile de ekran rengini değiştirilebilir.
 
